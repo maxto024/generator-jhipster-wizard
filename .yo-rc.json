@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "maxto024",
+      "authorName": "Mohamed Elmi",
+      "authorEmail": "mohamed.elmi@luulsolutions.com",
+      "authorUrl": ""
+    }
+  }
+}
