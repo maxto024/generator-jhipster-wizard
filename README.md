@@ -1,6 +1,6 @@
 # generator-jhipster-wizard
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> JHipster module, this will make simple to create form wizard from the entity 
+> JHipster module,  to create form wizard from the entity 
 
 # Introduction
 
